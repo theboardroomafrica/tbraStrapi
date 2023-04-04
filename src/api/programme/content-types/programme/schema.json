@@ -59,6 +59,9 @@
       "type": "component",
       "repeatable": false,
       "component": "brochure-info.brochure-info"
+    },
+    "outlineVideoUrl": {
+      "type": "string"
     }
   }
 }
