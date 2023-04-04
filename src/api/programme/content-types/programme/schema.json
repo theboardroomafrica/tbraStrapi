@@ -54,6 +54,11 @@
       "type": "component",
       "repeatable": true,
       "component": "webstats.stats"
+    },
+    "brochureInfo": {
+      "type": "component",
+      "repeatable": false,
+      "component": "brochure-info.brochure-info"
     }
   }
 }

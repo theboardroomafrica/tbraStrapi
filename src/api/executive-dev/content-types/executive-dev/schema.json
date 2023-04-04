@@ -1,0 +1,27 @@
+{
+  "kind": "singleType",
+  "collectionName": "executive_devs",
+  "info": {
+    "singularName": "executive-dev",
+    "pluralName": "executive-devs",
+    "displayName": "ExecutiveDev",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "component",
+      "repeatable": true,
+      "component": "heading.heading"
+    },
+    "Programmes": {
+      "displayName": "Event",
+      "type": "component",
+      "repeatable": true,
+      "component": "event.event"
+    }
+  }
+}

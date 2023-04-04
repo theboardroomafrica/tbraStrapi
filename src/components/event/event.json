@@ -1,0 +1,34 @@
+{
+  "collectionName": "components_event_events",
+  "info": {
+    "displayName": "Event",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "date": {
+      "type": "date"
+    },
+    "seatsRemaining": {
+      "type": "string"
+    },
+    "venue": {
+      "type": "string"
+    },
+    "imageUrl": {
+      "type": "string"
+    },
+    "applyBtnUrl": {
+      "type": "string"
+    },
+    "learnmoreBtnUrl": {
+      "type": "string"
+    },
+    "groupName": {
+      "type": "string"
+    }
+  }
+}

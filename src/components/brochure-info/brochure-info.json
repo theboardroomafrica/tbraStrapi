@@ -1,0 +1,21 @@
+{
+  "collectionName": "components_brochure_info_brochure_infos",
+  "info": {
+    "displayName": "BrochureInfo"
+  },
+  "options": {},
+  "attributes": {
+    "upcoming": {
+      "type": "text"
+    },
+    "structure": {
+      "type": "text"
+    },
+    "brochureFormUrl": {
+      "type": "string"
+    },
+    "applyUrl": {
+      "type": "string"
+    }
+  }
+}
