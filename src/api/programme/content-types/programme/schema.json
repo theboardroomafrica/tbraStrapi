@@ -41,6 +41,9 @@
     },
     "outlineImageUrl": {
       "type": "string"
+    },
+    "testimonialImage": {
+      "type": "string"
     }
   }
 }
