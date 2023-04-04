@@ -23,8 +23,10 @@
       "repeatable": true,
       "component": "course-outline.course-outline"
     },
-    "Testing": {
-      "type": "string"
+    "Testimonial": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial.testimonial"
     }
   }
 }
