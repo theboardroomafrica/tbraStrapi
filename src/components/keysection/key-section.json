@@ -1,0 +1,32 @@
+{
+  "collectionName": "components_keysection_key_sections",
+  "info": {
+    "displayName": "KeySection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "url": {
+      "type": "string"
+    },
+    "Image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    },
+    "imageUrl": {
+      "type": "string"
+    }
+  }
+}
