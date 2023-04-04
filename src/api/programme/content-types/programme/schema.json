@@ -27,6 +27,12 @@
       "type": "component",
       "repeatable": true,
       "component": "testimonial.testimonial"
+    },
+    "Instructors": {
+      "displayName": "Instructor",
+      "type": "component",
+      "repeatable": true,
+      "component": "instructors.instructor"
     }
   }
 }

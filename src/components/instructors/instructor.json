@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_instructors_instructors",
+  "info": {
+    "displayName": "Instructor"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Title": {
+      "type": "string"
+    },
+    "Profile": {
+      "type": "richtext"
+    }
+  }
+}
