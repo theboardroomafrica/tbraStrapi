@@ -1,8 +1,16 @@
 {
   "collectionName": "components_webstats_stats",
   "info": {
-    "displayName": "Stats"
+    "displayName": "Stats",
+    "description": ""
   },
   "options": {},
-  "attributes": {}
+  "attributes": {
+    "metric": {
+      "type": "string"
+    },
+    "description": {
+      "type": "string"
+    }
+  }
 }
