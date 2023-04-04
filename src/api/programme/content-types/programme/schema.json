@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "programmes",
+  "info": {
+    "singularName": "programme",
+    "pluralName": "programmes",
+    "displayName": "Programme",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Heading": {
+      "displayName": "Heading",
+      "type": "component",
+      "repeatable": false,
+      "component": "heading.heading"
+    },
+    "CourseOutline": {
+      "type": "component",
+      "repeatable": true,
+      "component": "course-outline.course-outline"
+    },
+    "Testing": {
+      "type": "string"
+    }
+  }
+}

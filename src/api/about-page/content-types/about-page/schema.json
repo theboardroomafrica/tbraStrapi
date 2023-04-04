@@ -1,0 +1,38 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_pages",
+  "info": {
+    "singularName": "about-page",
+    "pluralName": "about-pages",
+    "displayName": "AboutPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "HeadingTitle": {
+      "type": "string"
+    },
+    "HeadingText": {
+      "type": "text"
+    },
+    "WebStat": {
+      "displayName": "Stats",
+      "type": "component",
+      "repeatable": false,
+      "component": "webstats.stats"
+    },
+    "CourseOutline": {
+      "type": "component",
+      "repeatable": true,
+      "component": "course-outline.course-outline"
+    },
+    "Fish": {
+      "type": "component",
+      "repeatable": false,
+      "component": "webstats.stats"
+    }
+  }
+}

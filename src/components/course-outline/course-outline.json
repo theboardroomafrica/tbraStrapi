@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_course_outline_course_outlines",
+  "info": {
+    "displayName": "Course Outline"
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}
