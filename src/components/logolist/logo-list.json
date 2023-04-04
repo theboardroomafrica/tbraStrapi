@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_logolist_logo_lists",
+  "info": {
+    "displayName": "LogoList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "logourl": {
+      "type": "string"
+    }
+  }
+}

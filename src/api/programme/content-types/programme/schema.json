@@ -44,6 +44,11 @@
     },
     "testimonialImage": {
       "type": "string"
+    },
+    "trustedBy": {
+      "type": "component",
+      "repeatable": true,
+      "component": "logolist.logo-list"
     }
   }
 }
