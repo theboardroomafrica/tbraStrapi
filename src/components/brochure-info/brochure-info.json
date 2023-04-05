@@ -1,7 +1,8 @@
 {
   "collectionName": "components_brochure_info_brochure_infos",
   "info": {
-    "displayName": "BrochureInfo"
+    "displayName": "BrochureInfo",
+    "description": ""
   },
   "options": {},
   "attributes": {
@@ -16,6 +17,9 @@
     },
     "applyUrl": {
       "type": "string"
+    },
+    "subsidy": {
+      "type": "richtext"
     }
   }
 }
