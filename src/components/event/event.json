@@ -9,9 +9,6 @@
     "title": {
       "type": "string"
     },
-    "date": {
-      "type": "date"
-    },
     "seatsRemaining": {
       "type": "string"
     },
@@ -28,6 +25,9 @@
       "type": "string"
     },
     "groupName": {
+      "type": "string"
+    },
+    "date": {
       "type": "string"
     }
   }
