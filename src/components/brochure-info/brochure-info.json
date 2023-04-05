@@ -18,8 +18,11 @@
     "applyUrl": {
       "type": "string"
     },
-    "subsidy": {
-      "type": "richtext"
+    "subsidyText": {
+      "type": "string"
+    },
+    "subsidyEmail": {
+      "type": "string"
     }
   }
 }
