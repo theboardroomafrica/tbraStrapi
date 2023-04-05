@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "memberships",
+  "info": {
+    "singularName": "membership",
+    "pluralName": "memberships",
+    "displayName": "Membership Page"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "heading": {
+      "type": "component",
+      "repeatable": false,
+      "component": "heading.heading"
+    },
+    "testimonials": {
+      "type": "component",
+      "repeatable": true,
+      "component": "testimonial.testimonial"
+    }
+  }
+}
