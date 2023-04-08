@@ -23,6 +23,9 @@
     },
     "linkTitle": {
       "type": "string"
+    },
+    "imageStyle": {
+      "type": "json"
     }
   }
 }
