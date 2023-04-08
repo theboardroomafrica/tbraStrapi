@@ -1,0 +1,20 @@
+{
+  "kind": "collectionType",
+  "collectionName": "paperforms",
+  "info": {
+    "singularName": "paperform",
+    "pluralName": "paperforms",
+    "displayName": "Paperforms"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "details": {
+      "type": "component",
+      "repeatable": true,
+      "component": "paperform-links.paper-form-links"
+    }
+  }
+}

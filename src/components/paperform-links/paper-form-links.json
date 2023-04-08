@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_paperform_links_paper_form_links",
+  "info": {
+    "displayName": "paperFormLinks"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "url": {
+      "type": "string"
+    }
+  }
+}
