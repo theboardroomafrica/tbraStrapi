@@ -12,27 +12,10 @@
   },
   "pluginOptions": {},
   "attributes": {
-    "HeadingTitle": {
-      "type": "string"
-    },
-    "HeadingText": {
-      "type": "text"
-    },
-    "WebStat": {
-      "displayName": "Stats",
+    "intro": {
       "type": "component",
       "repeatable": false,
-      "component": "webstats.stats"
-    },
-    "CourseOutline": {
-      "type": "component",
-      "repeatable": true,
-      "component": "course-outline.course-outline"
-    },
-    "Fish": {
-      "type": "component",
-      "repeatable": false,
-      "component": "webstats.stats"
+      "component": "keysection.key-section"
     }
   }
 }

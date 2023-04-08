@@ -12,10 +12,16 @@
     "content": {
       "type": "richtext"
     },
-    "url": {
+    "link": {
       "type": "string"
     },
     "imageUrl": {
+      "type": "string"
+    },
+    "btn": {
+      "type": "boolean"
+    },
+    "linkTitle": {
       "type": "string"
     }
   }
